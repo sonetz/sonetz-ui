@@ -1,4 +1,3 @@
-// src/app/dashboard/page.tsx
 import { Metadata } from "next"
 import DashboardLayout from "@/components/dashboard/dashboard-layout"
 import DashboardOverview from "@/components/dashboard/dashboard-overview"
